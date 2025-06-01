@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ria Sonalker # the main title
+title: "Ria Sonalker" # the main title
 
 tagline: Data | Automation | Sustainability # it will display as the subtitle
 
@@ -28,20 +28,14 @@ url: ""
 github:
   username: riasonalker1906 # change to your GitHub username
 
-
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ria Sonalker
-  email: riasonalker@gmail.com # change to your email address
+  email: riasonalker@gmail.com
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-     - https://www.linkedin.com/in/ria-sonalker/
-     - https://github.com/riasonalker1906
+    - https://github.com/riasonalker1906
+    - https://www.linkedin.com/in/ria-sonalker/
+    # Remove or update Twitter link if you have one
+
 
 # Site Verification Settings
 webmaster_verifications:
