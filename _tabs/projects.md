@@ -11,7 +11,7 @@ layout: page
   <div class="col-md-8">
     <h3>Project Title</h3>
     <p class="text-muted">Short description of what the project does and why it matters.</p>
-    <a href="/project-details-link" class="btn btn-sm btn-outline-primary">Learn More</a>
+    <a href="{{ '/' | relative_url }}" class="btn btn-sm btn-outline-secondary">Coming Soon</a>
   </div>
 </div>
 <hr>
