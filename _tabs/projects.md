@@ -6,7 +6,7 @@ layout: page
 ---
 <div class="row mb-4">
   <div class="col-md-4">
-    <img src="/assets/img/project1.png" alt="Project image" class="img-fluid rounded">
+    <img src="/assets/grow.png" alt="Project image" class="img-fluid rounded">
   </div>
   <div class="col-md-8">
     <h3>Project Title</h3>
