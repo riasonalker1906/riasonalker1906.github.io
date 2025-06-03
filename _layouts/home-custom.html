@@ -1,1 +1,47 @@
+---
+layout: default
+---
+
+<!-- 👋 About Me Section -->
+<section style="padding: 2rem 1rem;">
+  <div style="max-width: 700px; margin: 0 auto; font-size: 1.05rem; line-height: 1.7;">
+    <h2>👋 About Me</h2>
+    <p>Hi! I’m <strong>Ria Sonalker</strong>, a data analyst with a passion for automation and sustainability.<br>
+    I enjoy using data to solve real-world problems and have worked on projects across climate tech, education equity, and ESG reporting.</p>
+
+    <p>📍 <strong>Currently:</strong> Studying at Boston University<br>
+    💡 <strong>Interests:</strong> Data science, environmental policy, and building usable tools<br>
+    📬 <strong>Let’s connect on</strong> <a href="https://www.linkedin.com/in/ria-sonalker/" target="_blank">LinkedIn</a></p>
+  </div>
+</section>
+
+<hr style="margin: 2rem 0;">
+
+<!-- 🌟 Featured Projects -->
+<section style="padding: 2rem 1rem;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <h2>🌟 Featured Projects</h2>
+    <ul>
+      <li><strong>WasteWatcher</strong> – Tracks daily sustainability scores using waste image data + carbon footprint estimation. [Hackathon winner]</li>
+      <li><strong>GROW for GALY</strong> – ML-powered crop platform for cellular agriculture R&D teams.</li>
+      <li><strong>Equity in Public School Lunch</strong> – Data analysis of minority population vs. free-lunch enrollment.</li>
+    </ul>
+  </div>
+</section>
+
+<hr style="margin: 2rem 0;">
+
+<!-- 📝 Latest Blog Posts -->
+<section style="padding: 2rem 1rem;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <h2>📝 Latest Blog Posts</h2>
+    <ul>
+      {% for post in site.posts limit:3 %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a> – <small>{{ post.date | date: "%b %d, %Y" }}</small>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
 
