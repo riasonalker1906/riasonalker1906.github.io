@@ -10,7 +10,7 @@ layout: page
     <div class="card border-0">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="{{ '/assets/placeholder.png' | relative_url }}" alt="Stranger Danger" class="img-fluid rounded-start">
+          <img src="{{ '/assets/placeholder.jpg' | relative_url }}" alt="Stranger Danger" class="img-fluid rounded-start">
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -46,7 +46,7 @@ layout: page
     <div class="card border-0">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="{{ '/assets/placeholder.png' | relative_url }}" alt="Demographic model" class="img-fluid rounded-start">
+          <img src="{{ '/assets/placeholder.jpg' | relative_url }}" alt="Demographic model" class="img-fluid rounded-start">
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -64,7 +64,7 @@ layout: page
     <div class="card border-0">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="{{ '/assets/placeholder.png' | relative_url }}" alt="Lunch equity" class="img-fluid rounded-start">
+          <img src="{{ '/assets/placeholder.jpg' | relative_url }}" alt="Lunch equity" class="img-fluid rounded-start">
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -82,7 +82,7 @@ layout: page
     <div class="card border-0">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="{{ '/assets/placeholder.png' | relative_url }}" alt="Text Identifier" class="img-fluid rounded-start">
+          <img src="{{ '/assets/placeholder.jpg' | relative_url }}" alt="Text Identifier" class="img-fluid rounded-start">
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -100,7 +100,7 @@ layout: page
     <div class="card border-0">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="{{ '/assets/placeholder.png' | relative_url }}" alt="Rainfall modeling" class="img-fluid rounded-start">
+          <img src="{{ '/assets/placeholder.jpg' | relative_url }}" alt="Rainfall modeling" class="img-fluid rounded-start">
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -118,7 +118,7 @@ layout: page
     <div class="card border-0">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="{{ '/assets/placeholder.png' | relative_url }}" alt="SGD modeling" class="img-fluid rounded-start">
+          <img src="{{ '/assets/placeholder.jpg' | relative_url }}" alt="SGD modeling" class="img-fluid rounded-start">
         </div>
         <div class="col-md-8">
           <div class="card-body">
