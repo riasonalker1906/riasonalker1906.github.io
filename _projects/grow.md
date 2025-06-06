@@ -43,15 +43,13 @@ Cellular agriculture is a rapidly growing field, but identifying viable crops re
 
 ## 📸 Preview
 
-![GROW Screenshot](/assets/grow-screenshot.png)
+![GROW Screenshot](/assets/grow.png)
 
 ---
 
 ## 🔗 Links
 
-- [GitHub Repo](https://github.com/yourusername/grow-platform)
-- [Demo Video](https://www.youtube.com/yourdemo)
-- [Live Site](https://grow-platform.example.com) *(if hosted)*
+- [GitHub Repo](https://github.com/riasonalker1906/GALY-Resource-Optimization-Wizard)
 
 ---
 
