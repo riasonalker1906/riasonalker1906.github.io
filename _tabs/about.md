@@ -1,7 +1,8 @@
 ---
 title: About
 icon: fas fa-user
-order: 1
+order: 2
+layout: page
 ---
 
 ## 👋 About Me
