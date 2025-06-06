@@ -87,7 +87,6 @@ collections:
     sort_by: order
   projects:
     output: true
-    sort_by: order
 defaults:
   - scope:
       path: ""
