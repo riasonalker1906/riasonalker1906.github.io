@@ -21,7 +21,7 @@ layout: page
     </div>
   </div>
 </a>
-<a href="{{ '/project1' | relative_url }}" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4">
+<a href="{{ '/projects/grow/' | relative_url }}" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4">
   <div class="col-md-12">
     <div class="card border-0">
       <div class="row g-0">
