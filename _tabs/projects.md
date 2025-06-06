@@ -4,23 +4,25 @@ icon: fas fa-project-diagram
 order: 3
 layout: page
 ---
-<a href="{{ '/project1' | relative_url }}" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4">
+
+<a href="#" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4" onclick="return false;">
   <div class="col-md-12">
     <div class="card border-0">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="{{ '/assets/stranger danger.png' | relative_url }}" alt="Poster presentation" class="img-fluid rounded-start">
+          <img src="{{ '/assets/placeholder.png' | relative_url }}" alt="Stranger Danger" class="img-fluid rounded-start">
         </div>
         <div class="col-md-8">
           <div class="card-body">
             <h3 class="card-title my-2">Identifying Children's Stranger-Danger Behaviour</h3>
-            <p class="card-text">Powering Researchers to automate behavioural analysis.</p>
+            <p class="card-text">Powering researchers to automate behavioral analysis.</p>
           </div>
         </div>
       </div>
     </div>
   </div>
 </a>
+
 <a href="{{ '/projects/grow/' | relative_url }}" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4">
   <div class="col-md-12">
     <div class="card border-0">
@@ -38,12 +40,13 @@ layout: page
     </div>
   </div>
 </a>
-<a href="{{ '/project1' | relative_url }}" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4">
+
+<a href="#" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4" onclick="return false;">
   <div class="col-md-12">
     <div class="card border-0">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="{{ '/assets/grow.png' | relative_url }}" alt="Grow project image" class="img-fluid rounded-start">
+          <img src="{{ '/assets/placeholder.png' | relative_url }}" alt="Demographic model" class="img-fluid rounded-start">
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -55,29 +58,31 @@ layout: page
     </div>
   </div>
 </a>
-<a href="{{ '/project1' | relative_url }}" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4">
+
+<a href="#" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4" onclick="return false;">
   <div class="col-md-12">
     <div class="card border-0">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="{{ '/assets/grow.png' | relative_url }}" alt="Grow project image" class="img-fluid rounded-start">
+          <img src="{{ '/assets/placeholder.png' | relative_url }}" alt="Lunch equity" class="img-fluid rounded-start">
         </div>
         <div class="col-md-8">
           <div class="card-body">
             <h3 class="card-title my-2">School Lunch Equity Analysis</h3>
-            <p class="card-text">Examining racial disparities in access to public school lunch programs across U.S. communities using demographic and program participation data.</p>
+            <p class="card-text">Examining racial disparities in public school lunch programs using demographic data.</p>
           </div>
         </div>
       </div>
     </div>
   </div>
 </a>
-<a href="{{ '/project1' | relative_url }}" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4">
+
+<a href="#" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4" onclick="return false;">
   <div class="col-md-12">
     <div class="card border-0">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="{{ '/assets/grow.png' | relative_url }}" alt="Grow project image" class="img-fluid rounded-start">
+          <img src="{{ '/assets/placeholder.png' | relative_url }}" alt="Text Identifier" class="img-fluid rounded-start">
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -89,51 +94,36 @@ layout: page
     </div>
   </div>
 </a>
-<a href="{{ '/project1' | relative_url }}" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4">
+
+<a href="#" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4" onclick="return false;">
   <div class="col-md-12">
     <div class="card border-0">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="{{ '/assets/grow.png' | relative_url }}" alt="Grow project image" class="img-fluid rounded-start">
+          <img src="{{ '/assets/placeholder.png' | relative_url }}" alt="Rainfall modeling" class="img-fluid rounded-start">
         </div>
         <div class="col-md-8">
           <div class="card-body">
             <h3 class="card-title my-2">Modeling Average Monthly Rainfall in Massachusetts (2006–2011)</h3>
-            <p class="card-text">Used time series modeling techniques to analyze trends and seasonality in average monthly precipitation in Massachusetts from 2006 to 2011.</p>
+            <p class="card-text">Time series analysis of trends and seasonality in MA precipitation.</p>
           </div>
         </div>
       </div>
     </div>
   </div>
 </a>
-<a href="{{ '/project1' | relative_url }}" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4">
+
+<a href="#" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4" onclick="return false;">
   <div class="col-md-12">
     <div class="card border-0">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="{{ '/assets/grow.png' | relative_url }}" alt="Grow project image" class="img-fluid rounded-start">
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h3 class="card-title my-2">Modeling Average Monthly Rainfall in Massachusetts (2006–2011)</h3>
-            <p class="card-text">Used time series modeling techniques to analyze trends and seasonality in average monthly precipitation in Massachusetts from 2006 to 2011.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</a>
-<a href="{{ '/project1' | relative_url }}" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4">
-  <div class="col-md-12">
-    <div class="card border-0">
-      <div class="row g-0">
-        <div class="col-md-4">
-          <img src="{{ '/assets/grow.png' | relative_url }}" alt="Grow project image" class="img-fluid rounded-start">
+          <img src="{{ '/assets/placeholder.png' | relative_url }}" alt="SGD modeling" class="img-fluid rounded-start">
         </div>
         <div class="col-md-8">
           <div class="card-body">
             <h3 class="card-title my-2">Convergence Analysis of Averaged vs. Decaying-Step SGD</h3>
-            <p class="card-text">Compared two SGD variants—constant step size with averaging vs. decreasing step size with polynomial decay—for robust regression, evaluating their convergence behavior on non-convex loss functions through theoretical and empirical analysis.</p>
+            <p class="card-text">Evaluating convergence of SGD variants for robust regression using non-convex loss functions.</p>
           </div>
         </div>
       </div>
