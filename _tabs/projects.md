@@ -9,7 +9,7 @@ layout: page
     <div class="card border-0">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="{{ '/assets/grow.png' | relative_url }}" alt="Grow project image" class="img-fluid rounded-start">
+          <img src="{{ '/assets/stranger danger.png' | relative_url }}" alt="Poster presentation" class="img-fluid rounded-start">
         </div>
         <div class="col-md-8">
           <div class="card-body">
