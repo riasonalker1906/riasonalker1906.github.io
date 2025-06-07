@@ -1,0 +1,10 @@
+---
+---
+
+@import "main";  // this brings in Chirpy's base styles
+
+// Your custom styles go below
+.hover-shadow:hover {
+  background-color: #f5f5f5;
+  transition: background-color 0.3s ease;
+}
