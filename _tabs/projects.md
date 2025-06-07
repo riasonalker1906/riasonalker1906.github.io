@@ -23,8 +23,8 @@ layout: page
   </div>
 </a>
 
-<a href="{{ '/projects/grow/' | relative_url }}" class="text-decoration-none">
-  <div class="card mb-4 hover-shadow" style="cursor: pointer;">
+<div class="card mb-4 hover-shadow">
+  <a href="{{ '/projects/grow/' | relative_url }}" class="text-decoration-none text-reset d-block h-100">
     <div class="row g-0">
       <div class="col-md-4">
         <img src="{{ '/assets/grow.png' | relative_url }}" alt="Grow project image" class="img-fluid rounded-start">
@@ -36,9 +36,8 @@ layout: page
         </div>
       </div>
     </div>
-  </div>
-</a>
-
+  </a>
+</div>
 
 <a href="#" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4" onclick="return false;">
   <div class="col-md-12">
