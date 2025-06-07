@@ -23,23 +23,22 @@ layout: page
   </div>
 </a>
 
-<a href="{{ '/projects/grow/' | relative_url }}" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4">
-  <div class="col-md-12">
-    <div class="card border-0">
-      <div class="row g-0">
-        <div class="col-md-4">
-          <img src="{{ '/assets/grow.png' | relative_url }}" alt="Grow project image" class="img-fluid rounded-start">
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h3 class="card-title my-2">GALY Resource Optimization Wizard</h3>
-            <p class="card-text">AI-powered crop selection LLM built for cellular agriculture startups.</p>
-          </div>
+<a href="{{ '/projects/grow/' | relative_url }}" class="text-decoration-none">
+  <div class="card mb-4 hover-shadow" style="cursor: pointer;">
+    <div class="row g-0">
+      <div class="col-md-4">
+        <img src="{{ '/assets/grow.png' | relative_url }}" alt="Grow project image" class="img-fluid rounded-start">
+      </div>
+      <div class="col-md-8">
+        <div class="card-body">
+          <h3 class="card-title my-2">GALY Resource Optimization Wizard</h3>
+          <p class="card-text">AI-powered crop selection LLM built for cellular agriculture startups.</p>
         </div>
       </div>
     </div>
   </div>
 </a>
+
 
 <a href="#" class="post-preview row g-0 flex-md-row-reverse text-decoration-none mb-4" onclick="return false;">
   <div class="col-md-12">
