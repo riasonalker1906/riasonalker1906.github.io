@@ -115,3 +115,15 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Tags"
+    url: /tags/
+
