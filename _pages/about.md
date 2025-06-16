@@ -8,6 +8,6 @@ I enjoy using data to solve real-world problems and have worked on projects acro
 
 🎓 **Education:** Recent Mathematics (Statistics) graduate from Boston University! 
 
-💡 **Interests:** Data science, Machine Learning, Statistics, and sustainability  
+🚀 **Interests:** Data science, Machine Learning, Statistics, and sustainability  
 
 💬 **Let’s connect on** [LinkedIn](https://www.linkedin.com/in/ria-sonalker/)
