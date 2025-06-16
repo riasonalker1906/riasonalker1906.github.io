@@ -71,7 +71,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ria-sonalker"
     - label: "Email"
-      icon: "fas fa-fw fa-envelop"
+      icon: "📧"
       url: "mailto:riasonalker@gmail.com"
 
 footer:
@@ -83,7 +83,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/riasonalker1906"
     - label: "Email"
-      icon: "fas fa-fw fa-envelop"
+      icon: "📧"
       url: "mailto:riasonalker@gmail.com"
 
 defaults:
