@@ -23,7 +23,5 @@ Powering researchers to automate behavioral analysis.
 - Save thousands of dollars in hourly research labor costs.
 - Allows researchers to use saved time to advance behavioural analysis and collect more data.
 
-### Poster presentation
-
-![Poster describing the anxiety detection system](/assets/images/poster.png)
+### User Experience Summary
 
