@@ -11,7 +11,7 @@ tags:
 
 ## The What and the Why
 
-About a year ago, I was first introduced to the concept of machine learning. As part of my summer internship, I was brought on to develop a fraud detection model using purchase and sales data for the audit team. 
+It was around a year ago when I was first introduced to the concept of machine learning. As part of my summer internship, I was brought on to develop a fraud detection model using purchase and sales data for the audit team. 
 Having no prior experience in fraud detection, one of the first things I did— which you may have rightly guessed—was Google “fraud detection.”
 
 According to the [Association of Certified Fraud Examiners](https://www.ibm.com/think/topics/fraud-detection), U.S. businesses lose 5%of their gross annual revenue to fraud. That 5% could fund new hires, equipment upgrades, or product innovations—instead, it quietly vanishes. That number fueled my why.
@@ -21,9 +21,12 @@ According to the [Association of Certified Fraud Examiners](https://www.ibm.com/
 ## Figuring Out the How
 
 Now that I had the what and why, I had to figure out the how.
+
 As I dove deeper into fraud detection, I found that there are two main approaches organizations use: **rule-based systems** and **machine learning (ML) models**.
+
 The rule-based method works just like it sounds, since it uses a set of predefined conditions to flag suspicious transactions. As explained in [Fraud.net’s glossary](https://www.fraud.net/glossary/rules-based-fraud-detection#what-is-rules-based-fraud-detection), 
 these rules could include things like unusually high transaction amounts, odd timing, suspicious locations, or transaction frequency anomalies.
+
 The second approach—machine learning—felt more mysterious and technically intimidating. However, the more I explored, the more I realized it didn’t have to be so abstract.
 
 ## Deconstructing Machine Learning (ML)
