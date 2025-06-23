@@ -1,5 +1,5 @@
 ---
-title: "Inside the Mind of a Data Intern: First Encounters with Fraud Detection & ML"
+title: "🕵️‍♀️ Inside the Mind of a Data Intern: First Encounters with Fraud Detection & ML"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
