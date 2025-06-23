@@ -14,7 +14,7 @@ tags:
 It was around a year ago when I was first introduced to the concept of machine learning. As part of my summer internship, I was brought on to develop a fraud detection model using purchase and sales data for the audit team. 
 Having no prior experience in fraud detection, one of the first things I did— which you may have rightly guessed—was Google “fraud detection.”
 
-According to the [Association of Certified Fraud Examiners](https://www.ibm.com/think/topics/fraud-detection), U.S. businesses lose 5%of their gross annual revenue to fraud. That 5% could fund new hires, equipment upgrades, or product innovations—instead, it quietly vanishes. That number fueled my why.
+According to the [Association of Certified Fraud Examiners](https://www.ibm.com/think/topics/fraud-detection), U.S. businesses lose 5% of their gross annual revenue to fraud. That 5% could fund new hires, equipment upgrades, or product innovations—instead, it quietly vanishes. That number fueled my why.
 
 <!--more-->
 
