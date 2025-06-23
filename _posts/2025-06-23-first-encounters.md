@@ -9,9 +9,7 @@ tags:
   - internship
 ---
 
-# 🕵️‍ Inside the Mind of a Data Intern: First Encounters with Fraud Detection & ML
-
-### The What and the Why
+## The What and the Why
 
 About a year ago, I was first introduced to the concept of machine learning. As part of my summer internship, I was brought on to develop a fraud detection model using purchase and sales data for the audit team. 
 Having no prior experience in fraud detection, one of the first things I did— which you may have rightly guessed—was Google “fraud detection.”
