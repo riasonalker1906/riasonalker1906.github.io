@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Ria Sonalker"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/avatar.jpg"
   bio    : "Data & sustainability enthusiast"
   links:
     - label: "Website"
