@@ -28,8 +28,8 @@ Cellular agriculture is a rapidly growing field, but identifying viable crops re
 
 ## 📸 Preview
 
-<iframe src="assets/images/GROW - GALY Resource Optimization Wizard.pdf" width="100%" height="600px">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="assets/images/GROW - GALY Resource Optimization Wizard.pdf">Download PDF</a>.
+<iframe src="assets/images/grow_presentation.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="assets/images/grow_presentation.pdf">Download PDF</a>.
 </iframe>
 
 
