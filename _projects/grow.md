@@ -28,20 +28,20 @@ Cellular agriculture is a rapidly growing field, but identifying viable crops re
 
 ## 📸 Preview
 
-![GROW Screenshot](/assets/grow.png)
+<iframe src="assets/images/GROW - GALY Resource Optimization Wizard.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="assets/images/GROW - GALY Resource Optimization Wizard.pdf">Download PDF</a>.
+</iframe>
 
----
 
 ## 🔗 Links
 
 - [GitHub Repo](https://github.com/riasonalker1906/GALY-Resource-Optimization-Wizard)
 
----
 
 ## 📈 Outcome
 
 - Saved researchers 10+ hours/week in manual work
 - Featured in a climate tech hackathon (2024)
 
-![image](https://github.com/user-attachments/assets/e5866dc3-c0bc-4ace-849c-432f21c9a1e0)
+
 
