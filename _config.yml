@@ -116,4 +116,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "ria-sonalker-github-blog-1"
