@@ -21,6 +21,8 @@ twitter_username: username
 github_username: riasonalker1906
 minimal_mistakes_skin: contrast
 search: true
+url: "https://riasonalker1906.github.io"   
+baseurl: "" 
 
 # Build settings
 markdown: kramdown
