@@ -1,6 +1,6 @@
 ---
 title: "Identifying Anxiety Behaviour in Children with Computer Vision"
-date: 2024-10-28
+date: 2025-07-08
 layout: single
 collection: projects
 ---
