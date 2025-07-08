@@ -24,5 +24,7 @@ Powering researchers to automate behavioral analysis.
 - Allows researchers to use saved time to advance behavioural analysis and collect more data.
 
 ### User Experience Summary
-![User Journey](assets/images/user-journey.png)
+![User Journey]({{ site.baseurl }}/assets/images/user-journey.png)
+
+
 
