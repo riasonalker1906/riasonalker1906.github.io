@@ -6,9 +6,7 @@ collection: projects
 ---
 Uncovering trends between farmer age demographics and agricultural production trends across contiguous U.S.
 
-**Question in Investigation:** Do American farmers age have any impact on U.S. agricultural economic productivity?
-
-### Some sub-Questions Considered
+### Questions Investigated
 - How has the average age of farmers evolved over time across county, states, and nation in the United States, from 1997 onwards?
 - What are the trends in average age for the most productive coun- ties in the U.S., as measured by the dollar value of agricul- tural production?
 - What about the lowest productive counties in the U.S.?
@@ -27,6 +25,7 @@ Uncovering trends between farmer age demographics and agricultural production tr
 - Adjusting for economic inflation was important, as nominal sales figures can lead to overestimated perceptions of economic growth, masking the true agricultural productivity trends.
 
 ### Link to report
+<iframe src="{{ site.baseurl }}/assets/pdfs/agri.pdf" width="100%" height="600px" style="border:none;"></iframe>
 
 
 
