@@ -27,11 +27,7 @@ Cellular agriculture is a rapidly growing field, but identifying viable crops re
 - Figma
 
 ## 📸 Preview
-
-<iframe src="assets/images/grow-presentation.pdf" width="100%" height="600px">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="assets/images/grow-presentation.pdf">Download PDF</a>.
-</iframe>
-
+<iframe src="{{ site.baseurl }}/assets/pdfs/grow.pdf" width="100%" height="600px" style="border:none;"></iframe>
 
 ## 🔗 Links
 
